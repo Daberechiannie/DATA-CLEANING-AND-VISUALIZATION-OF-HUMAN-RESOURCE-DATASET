@@ -1,1 +1,1 @@
-# DATA-CLEANING-AND-VISUALIZATION-OF-HUMAN-RESOURCE-DATASET
+In this project, SQL was used to clean and preprocess HR data, followed by Power BI for visualization. SQL and Power BI is a powerful combination that transforms raw data into actionable insights. It enhances HR analytics, aids in understanding workforce trends, and enables informed HR decisions that can positively impact an organization's performance and employee satisfaction.# DATA-CLEANING-AND-VISUALIZATION-OF-HUMAN-RESOURCE-DATASET
